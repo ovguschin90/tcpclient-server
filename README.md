@@ -1,1 +1,1 @@
-# tcpclient-server
+# telnet analog
